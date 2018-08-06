@@ -3,4 +3,5 @@
 *.pkl
 *.meta
 *.index
+*.h5
 checkpoint
