@@ -16,7 +16,7 @@ XGBoost).
 
 ## ToDo:
 
- * complete the NLP section to build categories for the free test description of items.
+ * complete the NLP section to build categories for the free text description of items.
  * build some better features and make some better predictions!
 
  ---
