@@ -5,8 +5,10 @@
 ---
 
 The Jupyter notebook stored in this repository is the output of a couple of days of exploratory
-data analysis of an online retail data set.  The purpose was to see what value could be extracted
-from a fairly large and open-ended dataset (as opposed to one of the more straight forward Kaggle
+data analysis of an online retail data set. The code isn't elegant and beautiful, it's just what I
+hacked together in a short time for fun.  
+
+The purpose of this work was to see what value could be extracted from a fairly large and open-ended dataset (as opposed to one of the more straight forward Kaggle
 data sets with a more obvious target vector, for example).
 
 The analysis includes some basic feature engineering and machine learning. I also used the
