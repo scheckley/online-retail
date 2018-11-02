@@ -16,7 +16,7 @@ opportunity to test Microsoft's LightGBM algorithm - I didn't have access to hig
 computing resource and the algorithm served me well in terms of speed and accuracy, compared with
 XGBoost).
 
-** Note: ** There are a few plots made using Plotly which don't render in the repository view of
+**Note:** There are a few plots made using Plotly which don't render in the repository view of
 the notebook. You will have to clone and run it locally to see them. I'll see if I get time to
 build Altair versions.
 
